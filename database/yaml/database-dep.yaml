@@ -13,7 +13,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: database-deployment
+  name: banking-database
   labels:
     app: db
 spec:

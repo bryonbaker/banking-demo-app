@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: db-config
 data:
-  POSTGRESQL_DATABASE: banking-demo
+  POSTGRESQL_DATABASE: banking-demo-db
