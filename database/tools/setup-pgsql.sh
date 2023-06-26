@@ -21,7 +21,7 @@
 
 # Note: These passwords need to match the kubernetes secrets for the database.
 ADMIN_EMAIL=admin@demo.net
-ADMIN_PWD=demoadminuser
+ADMIN_PWD=adminpassword
 PGADMIN_PORT=8089
 PGSQL_USER=demouser
 PGSQL_PASSWORD=demopassword
